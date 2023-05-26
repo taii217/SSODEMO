@@ -2,3 +2,4 @@ django==4.2.1
 django-allauth==0.54.0
 django-crispy-forms==2.0
 tk-tools==0.16.0
+hypercorn==0.14.3
